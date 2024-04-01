@@ -2,6 +2,8 @@
 
 Breakout Game is a classic arcade game where the player controls a paddle to bounce a ball and break bricks. The game is built using HTML, CSS, and JavaScript.
 
+![Gameplay](breakoutss.png)
+
 ## How to Play
 
 - Use the left and right arrow keys to move the paddle.
@@ -11,12 +13,11 @@ Breakout Game is a classic arcade game where the player controls a paddle to bou
 
 ## Demo
 
-You can play the game [here](link_to_your_game).
+You can play the game [here](https://sithumsankajith.github.io/breakout-web-game/).
 
 ## Screenshots
 
-![Gameplay](/path/to/gameplay_screenshot.png)
-![Level Complete](/path/to/level_complete_screenshot.png)
+![Gameplay](overss.png)
 
 ## Technologies Used
 
